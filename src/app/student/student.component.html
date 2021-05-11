@@ -1,0 +1,31 @@
+<p>student works!</p>
+<form #student="ngForm" (ngSubmit)="onSubmit(student.value)" >
+<table border="2">
+    
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Age</td>
+            <td>Email</td>
+        </tr>
+    
+    <tr *ngFor='let d of details'>
+        <td>{{d.id}}</td>
+        <td>{{d.name}}</td>
+        <td>{{d.age}}</td>
+        <td>{{d.email}}</td>
+        </tr>
+        
+        <tr *ngIf="!onClickAdd"><td><button (click)="add()">add a new Student</button></td></tr>
+        
+        <tr *ngIf="onClickAdd"><td><input type="text" name="id" placeholder="Enter Id" ngModel></td>
+            <td><input type="text" name="name" placeholder="Enter name" ngModel></td>
+            <td><input type="text" name="age" placeholder="Enter age" ngModel></td>
+            <td><input type="text" name="email" placeholder="Enter Email" ngModel></td>     
+        </tr>
+        <tr *ngIf="onClickAdd">
+            <button type="submit">add</button>    
+        </tr>
+    
+</table>
+</form>
