@@ -3,6 +3,7 @@ import { HttpClient, HttpHeaders, HttpResponse } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { Student } from './classes/student';
+import { Student2 } from './classes/student2';
 
 @Injectable({
   providedIn: 'root'
@@ -22,7 +23,7 @@ export class StudentService {
     headers: new HttpHeaders ({'content-type':'application/json'})
   }
 
-   postStudents():Observable<Student>{
-     return this.http.post<any>(this.url,Student,this.httpOptions)
+   postStudents(post:Student2):Observable<Student2>{
+     return this.http.post<any>(this.url,post)
    }
   }

@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Student } from '../classes/student';
+import { Student2 } from '../classes/student2';
 import { StudentService } from '../student.service';
 
 @Component({
@@ -9,7 +10,8 @@ import { StudentService } from '../student.service';
 })
 export class StudentComponent implements OnInit {
 
-  details:Student[]
+  details:Student2[]
+  detail:Student2[]
   onClickAdd=false;
   constructor(private service:StudentService) { 
     
@@ -27,8 +29,8 @@ add(){
   console.log("add students")
   this.onClickAdd=true
 }
-onSubmit(details:Student){
-  this.service.postStudents().subscribe(data=>{
+onSubmit(details:Student2){
+  this.service.postStudents(details).subscribe(data=>{
     JSON.stringify(data)
     console.log(data)
   })
