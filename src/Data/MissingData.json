@@ -1,0 +1,22 @@
+{
+    "changeNo": "30",
+    "checkStatus": true,
+    "missingData": [
+        {
+            "mustPostion": "y",
+            "allLvlposNr": 700,
+            "lvlOnePosNr": 210,
+            "expLevel": 2,
+            "description": "CODE ETIKETTE",
+            "NESidValue": 8.000000411E9
+        }
+    ],
+    "bomNo": "12345",
+    "project": "jkkj",
+    "check": true,
+    "NESVersion": "16",
+    "NESName": "7806.050.011",
+    "bomType": "Long steering gear (short gear + steering gear output)",
+    "deactivation": "comment",
+    "customer": "opo"
+}

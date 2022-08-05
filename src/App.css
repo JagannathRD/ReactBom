@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+
+.parent {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+.child {
+  display: inline-block;
+  /*border: 1px solid red;*/
+  padding: 1rem 1rem ;
+  vertical-align: middle;
+  
+}
+
+.background-bosch-image {
+	background-image: url(bosch_base.png);
+  
+}
+
+.bosch-logo-image {
+	/*background-image: url(Bosch_logo.svg);*/
+  width: 10%;
+}
+
+.fileupload-file-chip {
+  max-width: fit-content !important;
+  max-width: -moz-fit-content !important;
+}

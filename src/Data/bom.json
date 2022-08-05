@@ -1,0 +1,1674 @@
+{
+    "ecr": "154",
+    "bomData": [
+        {
+            "compQty": 1.0,
+            "itemNumber": 100,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.401.697",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 1,
+            "objectDesc": "Housing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.001.793",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Housing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7820.335.140",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Damping Ring"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7810.240.141",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Thrust Member"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7810.040.200",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 3,
+            "objectDesc": "Thrust Member"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7810.040.201",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 3,
+            "objectDesc": "insert foil"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0634.303.737",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 3,
+            "objectDesc": "O-Ring"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 40,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.060.219",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Compression Spring"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 50,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0634.306.249",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "O-Ring"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 60,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7820.030.312",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Adjusting Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 70,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7830.040.507",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Plug"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 80,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7830.327.111",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Cyl. Roller Bearing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 90,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.196.361",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Ball Bearing; OTK"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0635.332.003",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 3,
+            "objectDesc": "Ball Bearing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.070.181",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 3,
+            "objectDesc": "Ball Bearing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 100,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7820.031.116",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Self-locking nut"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 110,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7852.040.429",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Screw Plug"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 130,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.028.212",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "O-Ring"
+        },
+        {
+            "compQty": 3.0,
+            "itemNumber": 720,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.190.072",
+            "componentUnit": "G",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Grease; RENOLIT JP1619N GREASE 55 GAL DR"
+        },
+        {
+            "compQty": 2.0,
+            "itemNumber": 730,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.190.175",
+            "componentUnit": "G",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Grease; RENOLIT CX-SPS0 GREASE 55gal Dr"
+        },
+        {
+            "compQty": 0.01,
+            "itemNumber": 740,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.090.318",
+            "componentUnit": "ML",
+            "lvlOnePosNr": 100,
+            "expLevel": 2,
+            "objectDesc": "Lubricating Oil; 43940 DIVINOL 43940"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 200,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7818.406.207",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 1,
+            "objectDesc": "Ball column"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.306.357",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 2,
+            "objectDesc": "Steering nut"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "8003.006.250",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Steering nut"
+        },
+        {
+            "compQty": 71.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3585.030.163",
+            "componentUnit": "MM",
+            "lvlOnePosNr": 200,
+            "expLevel": 4,
+            "objectDesc": "Round rod"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "8003.506.278",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 4,
+            "objectDesc": "Steering nut"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "8003.556.250",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 4,
+            "objectDesc": "Steering nut"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.032.591",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Toothed lock washer"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7818.032.203",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Washer"
+        },
+        {
+            "compQty": 2.0,
+            "itemNumber": 40,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.036.197",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Spring"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 50,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.325.133",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball Bearing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 60,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.034.173",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Threaded Ring"
+        },
+        {
+            "compQty": 2.0,
+            "itemNumber": 80,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.016.121",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball guide"
+        },
+        {
+            "compQty": 2.0,
+            "itemNumber": 90,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.040.260",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Cap"
+        },
+        {
+            "compQty": 2.0,
+            "itemNumber": 100,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0630.502.022",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Spring retaining ring"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.052.874",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 2,
+            "objectDesc": "Toothed rack"
+        },
+        {
+            "compQty": 140.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.100.048",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 2,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.308",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 12,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.309",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 14,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.310",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 16,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.311",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 18,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.312",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.313",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 22,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.314",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 24,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.315",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 26,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.316",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 28,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.317",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.318",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 32,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.319",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 34,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.320",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 36,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.321",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 38,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.322",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 40,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.323",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 42,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.324",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 44,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.325",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 46,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.326",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 48,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.327",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 50,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.328",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 52,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.329",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 54,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.330",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 56,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.331",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 58,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.332",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 60,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.333",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 62,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.334",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 64,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.335",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 66,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.336",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 68,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.337",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 70,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.075.338",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 200,
+            "expLevel": 3,
+            "objectDesc": "Ball"
+        },
+        {
+            "compQty": 7.0,
+            "itemNumber": 720,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.090.442",
+            "componentUnit": "G",
+            "lvlOnePosNr": 200,
+            "expLevel": 2,
+            "objectDesc": "Grease; 004316345 BME44-42 Kluber 170kg"
+        },
+        {
+            "compQty": 11.0,
+            "itemNumber": 730,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.190.175",
+            "componentUnit": "G",
+            "lvlOnePosNr": 200,
+            "expLevel": 2,
+            "objectDesc": "Grease; RENOLIT CX-SPS0 GREASE 55gal Dr"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 210,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.302.760",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 210,
+            "expLevel": 1,
+            "objectDesc": "Gear Cover"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.002.847",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 210,
+            "expLevel": 2,
+            "objectDesc": "Gear Cover"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7820.335.140",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 210,
+            "expLevel": 2,
+            "objectDesc": "Damping Ring"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 220,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.040.554",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 220,
+            "expLevel": 1,
+            "objectDesc": "Toothed Belt"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 300,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7818.476.161",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 1,
+            "objectDesc": "Sensor unit"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.053.775",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 2,
+            "objectDesc": "Steering pinion"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.196.892",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 2,
+            "objectDesc": "Torsion bar"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.196.238",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 2,
+            "objectDesc": "Tube"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7802.016.309",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Tube"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7802.016.312",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Tube"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 40,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.017.384",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 2,
+            "objectDesc": "Steering shaft"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 50,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.197.093",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 2,
+            "objectDesc": "Needle bearing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.070.189",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Needle bearing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.070.134",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Needle bearing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 60,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.197.093",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 2,
+            "objectDesc": "Needle bearing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.070.189",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Needle bearing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.070.134",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Needle bearing"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 70,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.105.034",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 2,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.296",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 12,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.297",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 14,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.298",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 16,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.299",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 18,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.300",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.301",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 22,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.302",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 24,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.303",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 26,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.304",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 28,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.305",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.306",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 32,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.307",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 104,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.308",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 106,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.309",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 108,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.310",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 110,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.367",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 0.0,
+            "itemNumber": 112,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.050.368",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 3,
+            "objectDesc": "Pin"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 80,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.196.693",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 2,
+            "objectDesc": "Torque Sensor"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 90,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7802.340.358",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 300,
+            "expLevel": 2,
+            "objectDesc": "Magnet"
+        },
+        {
+            "compQty": 0.1,
+            "itemNumber": 720,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.190.072",
+            "componentUnit": "G",
+            "lvlOnePosNr": 300,
+            "expLevel": 2,
+            "objectDesc": "Grease; RENOLIT JP1619N GREASE 55 GAL DR"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 310,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.440.510",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 310,
+            "expLevel": 1,
+            "objectDesc": "Connect. Unit Sensor Unit"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7805.040.108",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 310,
+            "expLevel": 2,
+            "objectDesc": "Connection clip"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.377.245",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 310,
+            "expLevel": 2,
+            "objectDesc": "Sensor Cable"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.302.367",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 310,
+            "expLevel": 2,
+            "objectDesc": "Sensor cover"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 40,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.195.148",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 310,
+            "expLevel": 2,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.030.145",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 310,
+            "expLevel": 3,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7802.030.399",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 310,
+            "expLevel": 3,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 50,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.195.148",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 310,
+            "expLevel": 2,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.030.145",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 310,
+            "expLevel": 3,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7802.030.399",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 310,
+            "expLevel": 3,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 0.4,
+            "itemNumber": 720,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.190.072",
+            "componentUnit": "G",
+            "lvlOnePosNr": 310,
+            "expLevel": 2,
+            "objectDesc": "Grease; RENOLIT JP1619N GREASE 55 GAL DR"
+        },
+        {
+            "compQty": 2.0,
+            "itemNumber": 730,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.190.072",
+            "componentUnit": "G",
+            "lvlOnePosNr": 310,
+            "expLevel": 2,
+            "objectDesc": "Grease; RENOLIT JP1619N GREASE 55 GAL DR"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 400,
+            "allLvlposNr": 0.0,
+            "componentNumber": "4532.009.532",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 1,
+            "objectDesc": "Electric Servodrive"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7802.277.754",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 2,
+            "objectDesc": "Motor AC3"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.199.632",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 2,
+            "objectDesc": "Toothed lock washer"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.032.812",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 3,
+            "objectDesc": "Toothed lock washer"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7818.032.229",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 3,
+            "objectDesc": "Toothed lock washer"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 40,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7802.340.357",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 2,
+            "objectDesc": "Magnet"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 50,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.028.175",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 2,
+            "objectDesc": "O-Ring"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 60,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.277.358",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 2,
+            "objectDesc": "Control Unit"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 70,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7802.040.815",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 2,
+            "objectDesc": "END CAP"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 80,
+            "allLvlposNr": 0.0,
+            "componentNumber": "4532.009.533",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 2,
+            "objectDesc": "Software"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 700,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7805.040.448",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 2,
+            "objectDesc": "Marking Plate"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7805.040.306",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 400,
+            "expLevel": 3,
+            "objectDesc": "Code label"
+        },
+        {
+            "compQty": 0.4,
+            "itemNumber": 720,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.190.072",
+            "componentUnit": "G",
+            "lvlOnePosNr": 400,
+            "expLevel": 2,
+            "objectDesc": "Grease; RENOLIT JP1619N GREASE 55 GAL DR"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 410,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.440.514",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 410,
+            "expLevel": 1,
+            "objectDesc": "Connecting unit cover"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.030.416",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 410,
+            "expLevel": 2,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.030.416",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 410,
+            "expLevel": 2,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.030.416",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 410,
+            "expLevel": 2,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 40,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.030.416",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 410,
+            "expLevel": 2,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 50,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.030.416",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 410,
+            "expLevel": 2,
+            "objectDesc": "Safety Screw"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 60,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0634.100.171",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 410,
+            "expLevel": 2,
+            "objectDesc": "O-Ring"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 70,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.196.214",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 410,
+            "expLevel": 2,
+            "objectDesc": "Sealing cap"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7802.040.667",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 410,
+            "expLevel": 3,
+            "objectDesc": "Sealing cap"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 80,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7802.040.787",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 410,
+            "expLevel": 2,
+            "objectDesc": "Sealing cap"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 500,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.454.311",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 1,
+            "objectDesc": "Steering gear output"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7805.249.375",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Axial joint"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0632.311.340",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Hose Clamper"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.040.837",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Bellows"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 40,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0632.311.437",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "band-type clamp"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 50,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7831.031.121",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Nut"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 60,
+            "allLvlposNr": 0.0,
+            "componentNumber": "4532.016.028",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Angle Joint"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 70,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7805.249.375",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Axial joint"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 80,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0632.311.340",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Hose Clamper"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 90,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.040.837",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Bellows"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 100,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0632.311.437",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "band-type clamp"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 110,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7831.031.121",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Nut"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 120,
+            "allLvlposNr": 0.0,
+            "componentNumber": "4532.016.029",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Angle Joint"
+        },
+        {
+            "compQty": 5.0,
+            "itemNumber": 720,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.190.072",
+            "componentUnit": "G",
+            "lvlOnePosNr": 500,
+            "expLevel": 2,
+            "objectDesc": "Grease; RENOLIT JP1619N GREASE 55 GAL DR"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 700,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.040.777",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 700,
+            "expLevel": 1,
+            "objectDesc": "Code label"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7852.040.305",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 700,
+            "expLevel": 2,
+            "objectDesc": "Code label"
+        },
+        {
+            "compQty": 5.0,
+            "itemNumber": 750,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0699.900.004",
+            "componentUnit": "ML",
+            "lvlOnePosNr": 750,
+            "expLevel": 1,
+            "objectDesc": "Anti-Corrosive; CAVITY WAX AP13/18  Pfin"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 800,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.440.641",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 800,
+            "expLevel": 1,
+            "objectDesc": "small components"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 10,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7882.047.102",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 800,
+            "expLevel": 2,
+            "objectDesc": "Protection Sleeve"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 20,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.040.356",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 800,
+            "expLevel": 2,
+            "objectDesc": "Protective Cap"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 30,
+            "allLvlposNr": 0.0,
+            "componentNumber": "7806.040.728",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 800,
+            "expLevel": 2,
+            "objectDesc": "Protective Cap"
+        },
+        {
+            "compQty": 1.0,
+            "itemNumber": 40,
+            "allLvlposNr": 0.0,
+            "componentNumber": "0770.047.109",
+            "componentUnit": "PC",
+            "lvlOnePosNr": 800,
+            "expLevel": 2,
+            "objectDesc": "Protection Sleeve"
+        },
+        {
+            "compQty": 0.5,
+            "itemNumber": 720,
+            "allLvlposNr": 0.0,
+            "componentNumber": "3590.190.072",
+            "componentUnit": "G",
+            "lvlOnePosNr": 800,
+            "expLevel": 2,
+            "objectDesc": "Grease; RENOLIT JP1619N GREASE 55 GAL DR"
+        }
+    ],
+    "bomNo": "12345",
+    "project": "jkkj",
+    "check": true,
+    "NESVersion": "16",
+    "NESName": "7806.050.011",
+    "bomType": "Long steering gear (short gear + steering gear output)",
+    "deactivation": "comment",
+    "customer": "opo",
+    "compareStatus":true
+}
