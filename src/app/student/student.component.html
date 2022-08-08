@@ -1,10 +1,12 @@
 <p>student works!</p>
-<li> <a routerLink="/addstudent">View students</a></li>
+<li> <a routerLink="/addstudent">Add students</a></li>
 
 <router-outlet></router-outlet>
 <form #student="ngForm" (ngSubmit)="onSubmit(student.value)" >
 <table border="2">
-    
+    {{student.value|json}}
+    {{studentModel|json}}
+   
         <tr>
             <td>Id</td>
             <td>Name</td>
@@ -24,10 +26,11 @@
         </tr>
             
         <tr *ngIf="onClickAdd">
-            <td><input type="text" name="id" placeholder="Enter Id" ngModel></td>
-            <td><input type="text" name="name" placeholder="Enter name" ngModel></td>
-            <td><input type="text" name="age" placeholder="Enter age" ngModel></td>
-            <td><input type="text" name="email" placeholder="Enter Email" ngModel></td>     
+            <td><input type="text" name="id" #id="ngModel" [class.is-invalid]="id.invalid" placeholder="Enter Id" required [(ngModel)]="studentModel.id"></td>
+            <small [class.d-none]="id.valid">Id is required</small>
+            <td><input type="text" name="name" placeholder="Enter name" [(ngModel)]="studentModel.name"></td>
+            <td><input type="text" name="age" placeholder="Enter age" [(ngModel)]="studentModel.age"></td>
+            <td><input type="text" name="email" placeholder="Enter Email" [(ngModel)]="studentModel.email"></td>     
         </tr>
         <tr *ngIf="onClickAdd">
             <button type="submit">add</button>    
@@ -35,3 +38,13 @@
                
 </table>
 </form>
+{{id}}
+<span *ngFor='let c of codes'>
+    {{c.id}}
+</span>
+
+<div *ngFor='let f of field'>
+<span *ngFor='let c of codes'>
+    {{c.id}}
+</span>
+</div>

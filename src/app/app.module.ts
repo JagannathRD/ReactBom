@@ -10,11 +10,13 @@ import{HttpClientModule} from '@angular/common/http'
 import { StudentService } from './student.service';
 import { FormsModule } from '@angular/forms';
 import { AddStudentComponent } from './add-student/add-student.component';
+import { CoronaComponent } from './cowin/corona/corona.component';
 @NgModule({
   declarations: [
     AppComponent,
     StudentComponent,
-    AddStudentComponent
+    AddStudentComponent,
+    CoronaComponent
   ],
   imports: [
     BrowserModule,

@@ -26,4 +26,7 @@ export class StudentService {
    postStudents(post:Student2):Observable<Student2>{
      return this.http.post<any>(this.url,post)
    }
+   getCode(){
+     return this.http.get<any>('https://api.data.gov.in/resource/04cbe4b1-2f2b-4c39-a1d5-1c2e28bc0e32?api-key=579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b&format=json&offset=0&limit=10')
+   }
   }

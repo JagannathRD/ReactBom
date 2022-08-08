@@ -4,19 +4,32 @@
 {{d}}
 </div>
 <form #student="ngForm" (ngSubmit)="onSubmit(student.value)" >
-    <table>
-    <tr>
-        <td>Id</td>
-        <td>Name</td>
-        <td>Age</td>
-        <td>Email</td>
-    </tr>
-<tr >
-    <td><input type="text" name="id" placeholder="Enter Id" ngModel></td>
-    <td><input type="text" name="name" placeholder="Enter name" ngModel></td>
-    <td><input type="text" name="age" placeholder="Enter age" ngModel></td>
-    <td><input type="text" name="email" placeholder="Enter Email" ngModel></td>     
-</tr>
- 
-</table>
-</form>
+    <div class="form-group">
+    <label>Name</label>
+    <input type="text" name="name" #name="ngModel" placeholder="Enter Name" class="form-control" minlength="4" required ngModel><br>
+    <div *ngIf="name.invalid" class="alert">
+        
+        <div *ngIf="name.errors.required &&(name.dirty||name.touched)">
+           <small class="text-danger">Name is required</small> 
+        </div>
+        <div *ngIf="name.errors.minlength &&(name.dirty||name.touched)">
+            <small class="text-danger">Name must be 4 minlength</small> 
+         </div>
+    </div>
+    </div>
+    <div class="form-group">
+    <label>Phone Number</label>
+    <input type="text" name="number" #ph="ngModel" class="form-control" placeholder="Enter phone numer" minlength="10" required  ngModel> <br>
+    <div *ngIf="ph.invalid" class="alert">
+        
+        <div *ngIf="ph.errors.required &&(ph.dirty||ph.touched)">
+           <small class="text-danger">Phone number is must</small> 
+        </div>
+        <div *ngIf="ph.errors.minlength &&(ph.dirty||ph.touched)">
+            <small class="text-danger">Phone number must be 10 of digits</small> 
+         </div>
+    </div>
+    
+</div>
+    <button type="submit">Submit</button>
+   </form>
